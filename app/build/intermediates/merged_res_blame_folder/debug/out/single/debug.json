@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_fragment_add_lugar.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/fragment_add_lugar.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_activity_principal.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/activity_principal.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/menu_delete_menu.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/menu/delete_menu.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_rotate_l.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_rotate_l.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_mic.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_logoff.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_logoff.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_stop.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_menu_camera.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_fragment_lugar.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/fragment_lugar.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_play.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_menu_slideshow.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_content_principal.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/content_principal.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_web_logo.png.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/web_logo.png"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_logo_size.jpg.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/logo_size.jpg"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_location.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_location.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_rotate_r.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_rotate_r.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_login.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_login.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/menu_principal.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/menu/principal.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/xml_file_paths.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_whatsapp_logo.png.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/whatsapp_logo.png"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_photo.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_email.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_email.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_fragment_update_lugar.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/fragment_update_lugar.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_fragment_gallery.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_register.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_register.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_fragment_slideshow.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_lugar_fila.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/lugar_fila.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_phone.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_nav_header_principal.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/nav_header_principal.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/layout_app_bar_principal.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/layout/app_bar_principal.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/build/intermediates/merged_res/debug/drawable_ic_menu_gallery.xml.flat",
+        "source": "/Users/JMoya/AndroidStudioProjects/Lugares_v2/app/src/main/res/drawable/ic_menu_gallery.xml"
+    }
+]
